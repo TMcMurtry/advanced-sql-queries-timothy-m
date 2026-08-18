@@ -1,1 +1,1 @@
-# -advanced-sql-queries-timothy-m
+This was an exercise done for my software development course. I did feel like I became a bit more comfortable and confident with some more complex SQL queries doing the exercise. The thing I found the most challenging while doing this activity was that the instructions weren't very clear. In the instructions it said we would be answering some questions using SQL queries but then never provided questions, so I was left making up ideas for what I wanted to query. 
